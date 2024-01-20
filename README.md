@@ -32,8 +32,7 @@ EarthRealm is an efficient web browser designed to deliver a seamless browsing e
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/EarthRealm-Browser.git
-cd EarthRealm-Browser
+git clone https://github.com/HenryLoM/EarthRealm-Browser.git
 ```
 
 2. Set Up Your Environment
