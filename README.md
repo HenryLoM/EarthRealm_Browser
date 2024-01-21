@@ -5,17 +5,17 @@ EarthRealm is an efficient web browser designed to deliver a seamless browsing e
 
 ## Features
 
-- Basic web browsing functionalities (Back, Forward, Reload, Home)
-- URL navigation with Enter key or Go button
+- Basic web browsing functionalities
+- Doesn't waste device's resources
 - Display website details
-- Full-screen support
+- Shortcuts avaible
 
 ## Keyboard Shortcuts
 
 - Back: Cmd+B (macOS) or Ctrl+B (Windows/Linux)
 - Forward: Cmd+F (macOS) or Ctrl+F (Windows/Linux)
 - Reload: Cmd+R (macOS) or Ctrl+R (Windows/Linux)
-- Go to URL: Enter key
+- Go to URL: Return (macOS) or Enter (Windows/Linux) key
 - Home: Cmd+H (macOS) or Ctrl+H (Windows/Linux)
 - Show Website Details: Customizable shortcut
 
@@ -62,4 +62,4 @@ We welcome contributions from the community. To contribute to KenshiAI, follow t
 
 ## License
 
-This project is licensed under the GNU General Public License v3.0 - see the LICENSE file for details.
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
